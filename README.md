@@ -42,7 +42,7 @@ amigo-secreto/
 ## 📦 Como utilizar
 
 1. Clone o repositório:
-   git clone https://github.com/jvpereirawlf/amigo-secreto.git
+   git clone https://github.com/jvpereirawlf/amigosecreto_one.git
 
 2.Acesse a pasta do projeto:
    cd amigo-secreto
