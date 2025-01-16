@@ -28,6 +28,7 @@ amigo-secreto/
 index.html        # Estrutura principal da página
 style.css         # Estilos visuais
 app.js            # Lógica da aplicação
+
 assets/           # Imagens e ícones
 
 ---
