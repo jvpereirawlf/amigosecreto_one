@@ -25,11 +25,11 @@ Uma aplicação simples e interativa para gerenciar e realizar o sorteio de um a
 ## 📂 Estrutura do projeto
 
 amigo-secreto/
-index.html        # Estrutura principal da página
-style.css         # Estilos visuais
-app.js            # Lógica da aplicação
 
-assets/           # Imagens e ícones
+- index.html        # Estrutura principal da página
+- style.css         # Estilos visuais
+- app.js            # Lógica da aplicação
+- assets/           # Imagens e ícones
 
 ---
 
